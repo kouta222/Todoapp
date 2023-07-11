@@ -21,7 +21,7 @@
 ## 使用技術
 フロントエンド<br>
 HTML/CSS、TypeScript<br>
-Next.jsMUI<br><br>
+Next.js,MUI<br><br>
 
 バックエンド(使用しない可能性あり）<br>
 PHP<br>
@@ -31,7 +31,7 @@ Laravel<br>
 ①
 AWS EC２,Firebase(Real timedatabase/Firebase Authentication）,github Actions, <br><br>
 ②(phpを使用かつ、Todoの合計時間を提示する機能を導入）
-AWS EC２,Docker,MySQL,github Acitons
+AWS EC２,Docker,MySQL,AWS CodePipeline
 
 ## 機能一覧
 ・レスポンシブデザイン<br>
