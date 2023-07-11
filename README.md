@@ -29,7 +29,7 @@ Laravel<br>
 
 インフラ・開発環境<br>
 ①
-Firebase(Real timedatabase/Firebase Authentication）,github Actions, <br><br>
+Firebase(Real timedatabase/Firebase Authentication/Firebase Cloud Functions）,github Actions, <br><br>
 ②(phpを使用かつ、Todoの合計時間を提示する機能を導入）<br>
 AWS EC２,Docker,MySQL,AWS CodePipeline
 
